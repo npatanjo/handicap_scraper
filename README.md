@@ -1,5 +1,5 @@
 # handicap_scraper
-web scraper for handicap application. Currently for json 
+web scraper for handicap application. Currently using .txt backing with json 
 
 ### requirments.txt
 requirments.txt includes requirments from local virtual environment. 
